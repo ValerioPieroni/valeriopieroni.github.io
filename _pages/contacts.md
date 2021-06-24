@@ -7,12 +7,11 @@ author_profile: true
 
 **Email**: <a href="mailto:valerio.pieroni@uab.cat">valerio.pieroni@uab.cat</a>
 
-**Address**: <b>
-  
-International Doctorate in Economic Analysis<b>
-Facultat d’Economia i Empresa<b>
-Universitat Autònoma de Barcelona<b>
-Edifici B — Campus de Bellaterra<b>
-08193 Bellaterra<b>
-Cerdanyola del Vallès<b>
-Barcelona (Spain)<b>
+**Address**: <br>
+International Doctorate in Economic Analysis<br>
+Facultat d’Economia i Empresa<br>
+Universitat Autònoma de Barcelona<br>
+Edifici B — Campus de Bellaterra<br>
+08193 Bellaterra<br>
+Cerdanyola del Vallès<br>
+Barcelona (Spain)<br>

@@ -5,7 +5,8 @@ permalink: /contacts/
 author_profile: true
 ---
 
-**Email**: <a href="mailto:valerio.pieroni@uab.cat">valerio.pieroni@uab.cat</a>
+**Email**:  <br>
+<a href="mailto:valerio.pieroni@uab.cat">valerio.pieroni@uab.cat</a> <br>
 
 **Address**: <br>
 International Doctorate in Economic Analysis<br>

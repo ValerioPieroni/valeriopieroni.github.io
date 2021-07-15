@@ -7,7 +7,7 @@ main:
     url: /teaching/ 
     
    - title: "QuantMacro"
-    url: /QuantMacro/
+    url: /quantmacro/
 
   - title: "CV"
     url: /cv/

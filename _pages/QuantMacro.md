@@ -10,8 +10,6 @@ author_profile: true
 This is a set of notes that I developed over the years. 
 Please use them with caution as this is a work  in progress. 
 I plan to add companion codes (Matlab). If you happen to find any typos, or if you have questions, please contact me.           <br>
-<br> 
-Syllabus <br> 
  <br> 
 Chapter 1: Complete markets and growth <br> 
 Chapter 2: Life-cycle and overlapping generations <br> 

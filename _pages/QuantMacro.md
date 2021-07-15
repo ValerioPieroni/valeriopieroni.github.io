@@ -18,8 +18,6 @@ Chapter 3: Solution methods for macro models <br>
 Chapter 4: New Keynesian models <br> 
 Chapter 5: Heterogeneous agents <br> 
 
-**Codes** <br>
-          <br>
           
           
           

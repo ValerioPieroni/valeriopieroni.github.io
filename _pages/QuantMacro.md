@@ -2,7 +2,7 @@
 ---
 layout: archive
 title: "QuantMacro"
-permalink: /QuantMacro/
+permalink: /quantmacro/
 author_profile: true
 ---
 

@@ -15,7 +15,7 @@ I plan to add companion codes (Matlab). If you happen to find any typos, or if y
 Syllabus <br> 
  <br> 
 Chapter 1: Complete markets and growth <br> 
-Chpater 2: Life-cycle and overlapping generations <br> 
+Chapter 2: Life-cycle and overlapping generations <br> 
 Chapter 3: Solution methods for macro mdoels <br> 
 Chapter 4: New Keynesian models <br> 
 Chapter 5: Heterogeneous agents <br> 

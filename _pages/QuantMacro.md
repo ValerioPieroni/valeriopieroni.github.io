@@ -5,10 +5,10 @@ permalink: /quantmacro/
 author_profile: true
 ---
 
+This is a set of notes that I developed over the years. If you happen to find any typos, or if you have questions, please contact me.           <br>
+
 **Notes** <br>
-  <br>
-This is a set of notes that I developed over the years. Use them with caution as this is a work in progress. I plan to add companion codes. If you happen to find any typos, or if you have questions, please contact me.           <br>
- <br> 
+
 Overview <br> 
 Chapter 1: Complete markets and growth <br> 
 Chapter 2: Life-cycle and overlapping generations <br> 

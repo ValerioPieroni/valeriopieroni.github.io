@@ -8,10 +8,11 @@ author_profile: true
 ### Work in Progress
 
 ### "Wealth Distribution and the Heterogeneous Effects of Monetary Policy"
+
+<!-- abstract
 <details>
 <summary>Abstract</summary>
 <br>  
-  Draft availabel soon.
-  
-</details>
+Text
+</details> 
 

@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV [here](/upload/cv/cv.pdf).
+Download [pdf](/upload/cv/cv.pdf).
 
 

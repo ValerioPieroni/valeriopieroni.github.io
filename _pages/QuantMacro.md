@@ -5,7 +5,7 @@ permalink: /quantmacro/
 author_profile: true
 ---
 
-This is a set of notes that I developed over the years. If you happen to find any typos, or if you have questions, please contact me. <br>
+This is a set of study notes that I developed over the years. If you happen to find any typos, or if you have questions, please contact me. <br>
 
 **Notes** <br>
 

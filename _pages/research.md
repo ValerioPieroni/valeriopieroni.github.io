@@ -5,8 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-**Work in Progress** <br>
-    <br>
+### Work in Progress
+---
+
 **"Wealth Concentration and Monetary Policy"**<br>
     <br>
 

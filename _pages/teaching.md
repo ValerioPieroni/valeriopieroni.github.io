@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Teaching Assistant** <br>
+**TA Courses** <br>
     <br>
 Social Insurance in Quantitative Macroeconomic Models<br>
 IDEA PhD program, UAB (2020-2021) <br>

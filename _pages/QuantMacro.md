@@ -5,7 +5,7 @@ permalink: /quantmacro/
 author_profile: true
 ---
 
-This is a set of study notes and a collection of codes that solve heterogeneous agent models. If you happen to find any typos, or if you have questions, please contact me. 
+This is a set of study notes and codes. If you happen to find any typos, or if you have questions, please contact me. 
 
 ### Quantitative Macroeconomics
 ---

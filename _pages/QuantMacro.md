@@ -7,7 +7,7 @@ author_profile: true
 
 This is a set of study notes. If you happen to find any typos, or if you have questions, please contact me. I plan to add more codes that solve heterogeneous agent models. <br>
 
-### Notes
+### Quantitative Macroeconomics
 ---
 Overview <br> 
 Chapter 1: Complete markets and growth <br> 

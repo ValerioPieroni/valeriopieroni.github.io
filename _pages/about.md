@@ -12,13 +12,12 @@ Welcome! I am a PhD candidate in Economics at Universitat Autònoma de Barcelona
 
 My research interests lie in the field of quantitative macroeconomics, with a focus on economic inequality, household heterogeneity, and monetary economics. 
 
-<\br>
-<\br>
-<\br>
-<\br>
-<\br>
-<\br>
-<\br>
-<\br>
-<\br>
-<\br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

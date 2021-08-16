@@ -12,7 +12,4 @@ author_profile: true
 International Doctorate in Economic Analysis<br>
 Facultat d’Economia i Empresa<br>
 Universitat Autònoma de Barcelona<br>
-Edifici B — Campus de Bellaterra<br>
-08193 Bellaterra<br>
-Cerdanyola del Vallès<br>
-Barcelona (Spain)<br>
+08193, Bellaterra, Barcelona, Spain.

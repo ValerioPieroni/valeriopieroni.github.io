@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download [[pdf](/upload/cv/cv.pdf)]
+Curriculum vitae [[pdf](/upload/cv/cv.pdf)]
 
 
 

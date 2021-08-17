@@ -2,7 +2,7 @@
 layout: archive
 title: "QuantMacro"
 permalink: /quantmacro/
-author_profile: true
+author_profile: false
 ---
 
 This is a set of study notes and codes. 

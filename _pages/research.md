@@ -8,5 +8,5 @@ author_profile: false
 ### Work in Progress
 ---
 
-**"Wealth Concentration and Monetary Policy"**<br>
+**"Wealth Inequality and the Heterogeneous Effects of Monetary Policy"**<br>
     <br>

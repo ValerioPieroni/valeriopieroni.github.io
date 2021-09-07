@@ -12,4 +12,15 @@ Welcome! I am a PhD candidate in Economics at <a href="http://idea.uab.es/" targ
 
 My research interests lie in the field of quantitative macroeconomics, with a focus on economic inequality, household heterogeneity, and monetary economics. 
 
+  <br>
+    <br>
+      <br>
+        <br>
+          <br>
+            <br>
+              <br>
+                <br>
+                  <br>
+                    <br>
+
 

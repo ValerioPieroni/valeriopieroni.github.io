@@ -14,3 +14,13 @@ Lecturer: Alexander Ludwig<br>
 Econometrics II<br>
 IDEA PhD program, UAB (2019-2020) <br>
 Lecturer: André Gröger<br>
+  <br>
+    <br>
+      <br>
+        <br>
+          <br>
+            <br>
+              <br>
+                <br>
+                  <br>
+                    <br>

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive-taxonomy
 title: "Research"
 permalink: /research/
 author_profile: false

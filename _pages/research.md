@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: posts
 title: "Research"
 permalink: /research/
 author_profile: false

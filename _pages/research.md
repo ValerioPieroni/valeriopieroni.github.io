@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: search
 title: "Research"
 permalink: /research/
 author_profile: false

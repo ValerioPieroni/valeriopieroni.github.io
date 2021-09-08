@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "QuantMacro"
 permalink: /quantmacro/
 author_profile: false

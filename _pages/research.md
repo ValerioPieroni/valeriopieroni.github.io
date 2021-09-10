@@ -10,7 +10,7 @@ author_profile: false
 
 **"Wealth Inequality and the Heterogeneous Effects of Monetary Policy"**<br> 
  <details>
-  <summary> Show/hide abstract </summary>
+  <summary> Abstract </summary>
 How does the high concentration of wealth shape the transmission of monetary policy to
 household consumption? I study this question in a quantitative Heterogeneous Agent New
 Keynesian (HANK) model. The model reproduces the distribution of income and wealth in the

@@ -9,7 +9,6 @@ author_profile: false
 ---
 
 **"Wealth Inequality and the Heterogeneous Effects of Monetary Policy"**<br> 
- <br>   
  <details>
   <summary> Abstract </summary>
 How does the high concentration of wealth shape the transmission of monetary policy to

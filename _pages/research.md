@@ -19,9 +19,7 @@ find that top wealth groups substantially amplify the interest income channel of
 and the persistence of the labor income channel. The reason is that households at the top of
 the wealth distribution show large responses to monetary policy shocks and have sizable consumption
 shares. In the model, wealthy households are more responsive due to differences in
-the income composition and consumption-saving behavior across wealth groups. The analysis
-sheds new light on the importance of wealth concentration and heterogeneous responses for the
-aggregate effects of monetary policy.
+the income composition and consumption-saving behavior across wealth groups. These findings shed new light on the importance of wealth concentration and heterogeneous responses for the aggregate effects of monetary policy.
 </details>
   <br>
     <br>

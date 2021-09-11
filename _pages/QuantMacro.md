@@ -18,7 +18,7 @@ Chapter 5: Heterogeneous agents  [[pdf](/upload/notes/Chapter5.pdf)] <br>
 
 ### Codes
 ---
-
+Basic heterogeneous agent model steady state, endogenous grid method                            
   <br>
     <br>
       <br>

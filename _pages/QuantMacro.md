@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "QuantMacro"
-permalink: /quantmacro/
+title: "Codes"
+permalink: /codes/
 author_profile: false
 ---
 

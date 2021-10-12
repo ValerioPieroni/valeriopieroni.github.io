@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: false
 ---
 
+![image-left](https://valeriopieroni.github.io/images/ban.jpg)
+
 ### Work in Progress
 ---
 

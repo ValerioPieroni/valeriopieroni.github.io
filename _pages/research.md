@@ -1,13 +1,11 @@
 ---
 layout: single
-title: false
+title: "Research"
 permalink: /research/
 author_profile: false
 ---
 
 ![image-left](https://valeriopieroni.github.io/images/ban.jpg)
-
-# Research
 
 ### Work in Progress
 ---

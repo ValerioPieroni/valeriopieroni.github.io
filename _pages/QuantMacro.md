@@ -18,7 +18,7 @@ Chapter 5: Heterogeneous agents  [[pdf](/upload/notes/Chapter5.pdf)] <br>
 
 ### Codes
 ---
-HA model steady state, value function iteration             [[ha_partial_equilibrium.m](/upload/codes/ha_partial_equilibrium.m)]  
+HA model steady state, discrete value function iteration             [[ha_partial_equilibrium.m](/upload/codes/ha_partial_equilibrium.m)]  
 HA model steady state, endogenous grid method               [[ha_general_equilibrium.m](/upload/codes/ha_general_equilibrium.m)]<br>              
   <br>
     <br>

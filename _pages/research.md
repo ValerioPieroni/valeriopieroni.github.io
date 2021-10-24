@@ -8,7 +8,7 @@ author_profile: false
 ### Work in Progress
 ---
 
-**"Wealth Inequality and the Heterogeneous Effects of Monetary Policy"**<br> 
+**"Wealth Distribution and the Heterogeneous Effects of Monetary Policy"**<br> 
 <br> 
 
   <br>

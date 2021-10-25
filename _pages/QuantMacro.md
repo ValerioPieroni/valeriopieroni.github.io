@@ -5,8 +5,6 @@ permalink: /codes/
 author_profile: false
 ---
 
-This is a set of study notes and codes. 
-
 ### Quantitative Macroeconomics
 ---
 Overview [[pdf](/upload/notes/Overview.pdf)] <br> 

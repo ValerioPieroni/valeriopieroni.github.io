@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  <br>
+ 
 <h1 align="center"> Valerio Pieroni </h1>
   <br>
 

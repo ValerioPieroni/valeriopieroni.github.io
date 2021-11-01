@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image-left](https://valeriopieroni.github.io/images/profile.png){: .align-left} Welcome! I am a PhD candidate in Economics at <a href="https://www.uabidea.eu/" target="_blank">IDEA</a> from Universitat Autònoma de Barcelona (UAB) and <a href="http://bse.eu/" target="_blank">Barcelona School of Economics (BSE)</a>. My supervisor is <a href="http://r-santaeulalia.net/" target="_blank">Raul Santaeulalia-Llopis</a>. 
+![image-left](https://valeriopieroni.github.io/images/profile.png){: .align-left} Welcome! I am a PhD candidate in Economics at <a href="https://www.uabidea.eu/" target="_blank">IDEA</a> from Universitat Autònoma de Barcelona and <a href="http://bse.eu/" target="_blank">Barcelona School of Economics</a>. My supervisor is <a href="http://r-santaeulalia.net/" target="_blank">Raul Santaeulalia-Llopis</a>. 
 
 My research interests lie in the field of quantitative macroeconomics, with a focus on economic inequality and monetary economics. 
 

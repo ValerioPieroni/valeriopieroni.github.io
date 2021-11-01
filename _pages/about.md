@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="center"> <h1 align="center"> Valerio Pieroni </h1> </div>
+<span align="center"> <h1> Valerio Pieroni </h1> </span>
 
 ![image-left](https://valeriopieroni.github.io/images/profile.png){: .align-left} 
 

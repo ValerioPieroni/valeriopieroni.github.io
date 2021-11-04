@@ -14,7 +14,7 @@ redirect_from:
 
 My research interests lie in the field of quantitative macroeconomics, with a focus on economic inequality and monetary economics. 
 
-e-mail: <a href="mailto:valerio.pieroni.econ@gmail.com">valerio.pieroni.econ@gmail.com</a>
+email: <a href="mailto:valerio.pieroni.econ@gmail.com">valerio.pieroni.econ@gmail.com</a>
 
   <br>
     <br>

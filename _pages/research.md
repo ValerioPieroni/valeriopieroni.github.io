@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-###Work in Progress
+#Work in Progress
 ---
 
 **"Wealth Distribution and the Heterogeneous Effects of Monetary Policy"**<br> 

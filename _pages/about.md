@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image-left](https://valeriopieroni.github.io/images/profile.png){: .align-left}<h1 style="color:rgb(27,39,113);">Valerio Pieroni</h1> <br> 
+![image-left](https://valeriopieroni.github.io/images/profile.png){: .align-left}<span style="color:rgb(27,39,113);"># Valerio Pieroni</span><br> 
 
 Welcome! I am a PhD candidate in Economics at <a href="https://www.uabidea.eu/" target="_blank">IDEA</a> from Universitat Autònoma de Barcelona and <a href="http://bse.eu/" target="_blank">Barcelona School of Economics</a>. My supervisor is <a href="http://r-santaeulalia.net/" target="_blank">Raul Santaeulalia-Llopis</a>. 
 

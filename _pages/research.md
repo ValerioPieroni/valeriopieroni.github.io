@@ -8,7 +8,14 @@ author_profile: false
 ### Work in Progress
 ---
 
-**"Wealth Distribution and the Heterogeneous Effects of Monetary Policy"**<br> 
+a[href='blue'] {
+    color: blue;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+}
+
+**<a href="blue">"Wealth Distribution and the Heterogeneous Effects of Monetary Policy"</a>**<br> 
 <br> 
 
   <br>

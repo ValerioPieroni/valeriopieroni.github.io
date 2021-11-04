@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Teaching"
+title: false
 permalink: /teaching/
 author_profile: false
 ---
 
-### TA Courses
+<h3 style="color:rgb(27,39,113);">TA Courses</h3> 
 ---
 Social Insurance in Quantitative Macroeconomic Models<br>
 IDEA PhD program, UAB (2020-2021, 2021-2022) <br>

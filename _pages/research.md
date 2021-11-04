@@ -9,7 +9,7 @@ author_profile: false
 ---
 
 **"Wealth Distribution and the Heterogeneous Effects of Monetary Policy"**<br> 
-<span style="color: blue;">text<span>
+<span style="color: blue;">text</span>
 <br> 
 
   <br>

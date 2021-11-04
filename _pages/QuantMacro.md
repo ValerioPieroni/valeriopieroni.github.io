@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "Codes"
+title: ""
 permalink: /codes/
 author_profile: false
 ---
 <h1 style="color:rgb(27,39,113);">Codes</h1> <br>
-
 ### Quantitative Macroeconomics
 ---
 Overview [[pdf](/upload/notes/Overview.pdf)] <br> 

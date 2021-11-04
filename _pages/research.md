@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "Research"
+title: false
 permalink: /research/
 author_profile: false
 ---
+<h1 style="color:rgb(27,39,113);">Research</h1> 
 
 ### Work in Progress
 ---

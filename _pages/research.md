@@ -6,7 +6,7 @@ author_profile: false
 ---
 <h1 style="color:rgb(27,39,113);">Research</h1> 
 
-<h2 style="color:rgb(27,39,113);">Work in Progress</h2> 
+<h3 style="color:rgb(27,39,113);">Work in Progress</h3> 
 
 **"Wealth Distribution and the Heterogeneous Effects of Monetary Policy"**<br> 
 <br> 

@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "Contact"
+title: false
 permalink: /contact/
 author_profile: false
 ---
+<h1 style="color:rgb(27,39,113);">Codes</h1> 
 
 **Email**:  <br>
 <a href="mailto:valerio.pieroni.econ@gmail.com">valerio.pieroni.econ@gmail.com</a> <br>

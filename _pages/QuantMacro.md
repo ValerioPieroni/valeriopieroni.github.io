@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: false
 permalink: /codes/
 author_profile: false
 ---

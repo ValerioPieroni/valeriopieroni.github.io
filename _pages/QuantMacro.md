@@ -4,7 +4,7 @@ title: false
 permalink: /codes/
 author_profile: false
 ---
-<h1 style="color:rgb(27,39,113);">Codes</h1> <br>
+<h1 style="color:rgb(27,39,113);">Codes</h1> 
 
 ### Quantitative Macroeconomics
 ---

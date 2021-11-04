@@ -4,6 +4,7 @@ title: false
 permalink: /teaching/
 author_profile: false
 ---
+<h1 style="color:rgb(27,39,113);">Teaching</h1> 
 
 <h3 style="color:rgb(27,39,113);">TA Courses</h3> 
 ---

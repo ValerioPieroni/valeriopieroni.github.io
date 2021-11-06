@@ -15,7 +15,7 @@ Chapter 3: Solution methods for macro models  [[pdf](/upload/notes/Chapter3.pdf)
 Chapter 4: New Keynesian models  [[pdf](/upload/notes/Chapter4.pdf)] <br> 
 Chapter 5: Heterogeneous agents  [[pdf](/upload/notes/Chapter5.pdf)] <br> 
 
-<h3 style="color:rgb(27,39,113);">Codes</h3> 
+<h3 style="color:rgb(27,39,113);">Heterogeneous agents models - Codes</h3> 
 ---
 HA model steady state, value function iteration             [[ha_partial_equilibrium.m](/upload/codes/ha_partial_equilibrium.m)]  
 

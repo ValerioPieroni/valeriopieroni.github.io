@@ -25,7 +25,11 @@ HA model steady state, value function iteration             [[ha_partial_equilib
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
-HA model steady state, endogenous grid method               [[ha_general_equilibrium.m](/upload/codes/ha_general_equilibrium.m)]<br>              
+HA model steady state, endogenous grid method               [[ha_general_equilibrium.m](/upload/codes/ha_general_equilibrium.m)]
+
+<hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
+
+OLG-HA model steady state, endogenous grid method           [[olg_partial_equilibrium.m](/upload/codes/ha_general_equilibrium.m)]<br> 
   <br>
     <br>
       <br>

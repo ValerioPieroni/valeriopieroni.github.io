@@ -29,7 +29,7 @@ HA model steady state, endogenous grid method               [[ha_general_equilib
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
-OLG-HA model steady state, endogenous grid method           [[olg_partial_equilibrium.m](/upload/codes/ha_general_equilibrium.m)]<br> 
+OLG-HA model steady state, endogenous grid method           [[olg_partial_equilibrium.m](/upload/codes/olg_partial_equilibrium.m)]<br> 
   <br>
     <br>
       <br>

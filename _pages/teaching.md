@@ -11,11 +11,11 @@ author_profile: false
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
 Social Insurance in Quantitative Macroeconomic Models<br>
-IDEA PhD program, UAB (2020-2021, 2021-2022) <br>
+IDEA PhD program, UAB (2020, 2021) <br>
 Lecturer: Alexander Ludwig<br>
   <br>
 Econometrics II<br>
-IDEA PhD program, UAB (2019-2020) <br>
+IDEA PhD program, UAB (2020) <br>
 Lecturer: André Gröger<br>
   <br>
     <br>

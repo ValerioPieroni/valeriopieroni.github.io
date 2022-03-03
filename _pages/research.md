@@ -12,8 +12,6 @@ author_profile: false
 
 **"Wealth Distribution and Monetary Policy"**<br> 
 <br> 
-**"Demand Composition and Inflation with Heterogeneous Agents"**<br> 
-<br> 
 **"Monetary Policy Betas: Evidence from Italy"**<br> 
 <br> 
 

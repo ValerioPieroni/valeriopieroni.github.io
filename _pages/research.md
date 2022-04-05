@@ -6,6 +6,10 @@ author_profile: false
 ---
 <h1 style="color:rgb(27,39,113);">Research</h1> 
 
+<h3 style="color:rgb(27,39,113);">Working papers</h3> 
+
+<hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
+
 <h3 style="color:rgb(27,39,113);">Work in Progress</h3> 
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">

@@ -10,7 +10,7 @@ author_profile: false
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
-**"Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK"**<br> 
+**"Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK"** [[pdf](/upload/wp/energy_hank.pdf)] <br> 
 <br> 
 
 <h3 style="color:rgb(27,39,113);">Work in Progress</h3> 

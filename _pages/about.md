@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 align="center" style="color:rgb(27,39,113);"> Valerio Pieroni </h1> 
+<h1 align="left" style="color:rgb(27,39,113);"> Valerio Pieroni </h1> 
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 

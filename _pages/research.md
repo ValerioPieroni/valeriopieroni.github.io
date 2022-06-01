@@ -13,6 +13,22 @@ author_profile: false
 **"Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK"** [[pdf](/upload/wp/energy_hank.pdf)] <br> 
 <br> 
 
+<small>[ <a href="#/" onclick="visib('identifying-prediction-mistakes')">Abstract</a> | [Draft]
+
+[identifying-prediction-mistakes] | [Supplement][identifying-prediction-mistakes-supplement] ]</small>
+
+<div id="identifying-prediction-mistakes" style="display: none; text-align: justify; line-height: 1.2" 
+
+><small>I study the effects of a reduction in energy supply using a quantitative Heterogeneous Agents
+New Keynesian (HANK) model with energy as a critical production input. I find that changes in
+aggregate demand amplify the macroeconomic effects of the energy shock, but these effects remain
+manageable. In the model a 10% reduction in the energy supply leads to a Gross National
+Income (GNI) loss in range between 0.8% and 2%. The economic burden is highly nonlinear
+across the wealth distribution: most households face similar and relatively contained costs,
+while low-wealth households bear the heaviest burden. I show that monetary and fiscal policy
+can mitigate the economic costs and the unequal effects of energy shortages.
+</small><br><br/></div>
+
 <h3 style="color:rgb(27,39,113);">Work in Progress</h3> 
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">

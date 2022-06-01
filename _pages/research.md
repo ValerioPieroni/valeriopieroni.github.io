@@ -13,7 +13,7 @@ author_profile: false
 **"Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK"** [[pdf](/upload/wp/energy_hank.pdf)] <br> 
 <br> 
 
-<small>[ <a href="#/" onclick="visib('identifying-prediction-mistakes')">Abstract</a> | [Draft]
+<small>[ <a href="#/" onclick="visib('identifying-prediction-mistakes')">Abstract</a> 
 
 [identifying-prediction-mistakes] | [Supplement][identifying-prediction-mistakes-supplement] ]</small>
 

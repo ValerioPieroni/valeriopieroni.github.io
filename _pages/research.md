@@ -10,7 +10,7 @@ author_profile: false
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
-[**"Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK"**(/upload/wp/energy_hank.pdf)] <br> 
+[[**"Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK"**](/upload/wp/energy_hank.pdf)] <br> 
 <div style="text-align: justify">I study the effects of a reduction in energy supply using a quantitative Heterogeneous Agents New Keynesian (HANK) model with energy as a critical production input. I find that changes in
 aggregate demand amplify the macroeconomic effects of the energy shock, but these effects remain
 manageable. In the model a 10% reduction in the energy supply leads to a Gross National

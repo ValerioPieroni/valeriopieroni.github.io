@@ -11,7 +11,7 @@ author_profile: false
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
 <span style="color:rgb(78,116,192);">**"Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK"**</span> [[pdf](/upload/wp/energy_hank.pdf)] <br> 
-<div style="text-align: justify"><small>I study the effects of a reduction in energy supply using a quantitative Heterogeneous Agents
+<div style="text-align: justify"><medium>I study the effects of a reduction in energy supply using a quantitative Heterogeneous Agents
 New Keynesian (HANK) model with energy consumption by households and firms. I find that
 changes in aggregate demand due to an increase in energy prices and labor market adjustments
 amplify the macroeconomic effects of the energy shock, but these effects remain manageable.
@@ -20,7 +20,7 @@ in range between 0.8% and 2%. The economic burden is highly nonlinear across the
 distribution: most households face similar and relatively contained costs, while low-income
 households bear the heaviest burden. I show that monetary and fiscal policy can mitigate the
 economic costs and the unequal effects of energy shortages.
-</small></div>
+</medium></div>
 
 <h3 style="color:rgb(27,39,113);">Work in Progress</h3> 
 

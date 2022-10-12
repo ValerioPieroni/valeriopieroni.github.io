@@ -16,7 +16,7 @@ redirect_from:
 
 My research interests lie in the field of macroeconomics, with a focus on economic inequality and monetary economics. 
 
-I am participating in the 2022-23 Job Market.<br>
+I am participating in the 2022-23 Job Market. <a href="https://valeriopieroni.github.io/upload/cv/cv.pdf" target="_blank">CV</a><br>
 email: <a href="mailto:valerio.pieroni.econ@gmail.com">valerio.pieroni.econ@gmail.com</a>, <a href="https://twitter.com/pieronivalerio" target="_blank">Twitter</a>
 
   <br>

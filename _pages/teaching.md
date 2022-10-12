@@ -18,6 +18,9 @@ Master program, BSE (2022), Lecturer: Davide Debortoli<br>
  <br>
 Econometrics II<br>
 IDEA PhD program, UAB (2020), Lecturer: André Gröger<br>
+ <br>
+Applied IO
+IDEA PhD program, UAB (2022). Lecturer: Susanna Esteban<br>
   <br>
     <br>
       <br>

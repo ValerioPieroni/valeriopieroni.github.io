@@ -16,7 +16,7 @@ Job Market Paper
 <br>
 
 <span style="color:rgb(78,116,192);">**Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK**</span> [[pdf](/upload/wp/energy_hank.pdf)] <br> 
-Revise and Resubmit, <em>European Economic Review</em> 
+Conditionally Accepted, <em>European Economic Review</em> 
 <br>
 <div style="text-align: justify">I study the effects of a reduction in energy supply using a quantitative Heterogeneous Agents
 New Keynesian (HANK) model with energy consumption by households and firms. I find that

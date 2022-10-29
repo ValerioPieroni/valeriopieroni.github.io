@@ -28,6 +28,7 @@ the findings in this paper provide new quantitative insights on the importance o
 distribution and household heterogeneity for the aggregate effects of macroeconomic shocks.
 </div>
 <br>
+
 <span style="color:rgb(78,116,192);">**Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK**</span> [[pdf](/upload/wp/energy_hank.pdf)] <br> 
 Conditionally Accepted, <em>European Economic Review</em> 
 <br>

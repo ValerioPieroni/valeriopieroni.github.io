@@ -23,7 +23,7 @@ dynamics. However, wealthy households in the top 10% have the largest impact on 
 consumption. The reason is that relative to other wealth groups, households at the top of the
 distribution benefit the most from higher equity prices and have sizable consumption shares.
 These effects also shape the transmission mechanism of monetary policy shocks. I show that
-wealth dynamics due to asset price changes amplify the direct effects of monetary policy. Overall,
+wealth dynamics due to asset price changes amplify the effects of monetary policy. Overall,
 the findings in this paper provide new quantitative insights on the importance of the wealth
 distribution and household heterogeneity for the aggregate effects of macroeconomic shocks.
 </div>

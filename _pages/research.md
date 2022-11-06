@@ -14,17 +14,10 @@ author_profile: false
 <br> 
 Job Market Paper
 <br>
-<div style="text-align: justify">How does wealth inequality shape the transmission of monetary policy to household consumption?
-
-</div>
-<br>
 
 <span style="color:rgb(78,116,192);">**Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK**</span> [[pdf](/upload/wp/energy_hank.pdf)] <br> 
 Conditionally Accepted, <em>European Economic Review</em> 
 <br>
-<div style="text-align: justify">I study the effects of a reduction in energy supply using a quantitative Heterogeneous Agents
-
-</div>
 
 <h3 style="color:rgb(27,39,113);">Work in Progress</h3> 
 

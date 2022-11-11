@@ -26,7 +26,7 @@ Conditionally Accepted, <em>European Economic Review</em>
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
-<span style="color:rgb(78,116,192);">**Numerical Solutions to Constrained Efficient Entrepreneurship Problems**</span><br> 
+<span style="color:rgb(78,116,192);">**Constrained Efficient Entrepreneurship**</span><br> 
 with Raul Santaeulalia-Llopis 
 <br>
 

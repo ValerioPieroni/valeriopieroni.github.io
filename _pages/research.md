@@ -30,6 +30,10 @@ Conditionally Accepted, <em>European Economic Review</em>
 with Raul Santaeulalia-Llopis 
 <br>
 
+<span style="color:rgb(78,116,192);">**The Marginal Propensity to Consume in Behavioral Macroeconomics**</span><br> 
+with Gianluca Violante
+<br>
+
   <br>
     <br>
       <br>

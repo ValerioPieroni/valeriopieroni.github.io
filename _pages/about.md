@@ -17,7 +17,6 @@ redirect_from:
 My research interests lie in the field of macroeconomics, with a focus on economic inequality and monetary economics. 
 
   <br>
-    <br>
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 

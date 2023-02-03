@@ -16,7 +16,7 @@ Job Market Paper
 <br>
 
 <span style="color:rgb(78,116,192);">**Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK**</span> [[pdf](/upload/wp/energy_hank.pdf)] <br> 
-Conditionally Accepted, <em>European Economic Review</em> 
+Accepted, <em>European Economic Review</em> 
 <br>
 
 <span style="color:rgb(78,116,192);">**Monetary Policy Betas: Evidence from Italy**</span> [[pdf](/upload/wp/MPB.pdf)]

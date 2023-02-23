@@ -1,7 +1,7 @@
 ---
 layout: single
 title: false
-permalink: /https://valeriopieroni.github.io/upload/cv/cv.pdf
+permalink: /cv/
 author_profile: false
 redirect_from:
   - /resume

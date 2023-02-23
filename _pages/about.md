@@ -14,9 +14,7 @@ redirect_from:
 
 ![image-left](https://valeriopieroni.github.io/images/profile.png){: .align-left} Welcome to my homepage. I am a Ph.D. candidate in Economics at <a href="https://www.uabidea.eu/" target="_blank">IDEA</a> from Universitat Autònoma de Barcelona (UAB) and <a href="http://bse.eu/" target="_blank">Barcelona School of Economics</a>. My advisor is <a href="http://r-santaeulalia.net/" target="_blank">Raul Santaeulalia-Llopis</a>. 
 
-My research interests lie in the field of macroeconomics, with a focus on economic inequality and monetary economics. 
-
-<br>
+My research interests lie in the field of macroeconomics, with a focus on economic inequality and monetary economics. <br>
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 

@@ -20,7 +20,7 @@ My research interests lie in the field of macroeconomics, with a focus on econom
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
-I am participating in the 2022-23 Job Market. <a href="https://valeriopieroni.github.io/upload/cv/cv.pdf" target="_blank">CV</a> and <a href="https://valeriopieroni.github.io/upload/wp/JMP_hank.pdf" target="_blank">JMP</a>  <br>
+<a href="https://valeriopieroni.github.io/upload/cv/cv.pdf" target="_blank">CV</a> 
 email: <a href="mailto:valerio.pieroni.econ@gmail.com">valerio.pieroni.econ@gmail.com</a>
 
   <br>

@@ -12,8 +12,6 @@ author_profile: false
 
 <span style="color:rgb(78,116,192);">**Wealth Distribution and Monetary Policy**</span> [[pdf](/upload/wp/JMP_hank.pdf)] 
 <br> 
-Job Market Paper
-<br>
 
 <span style="color:rgb(78,116,192);">**Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK**</span> [[pdf](/upload/wp/energy_hank.pdf)] <br> 
 Accepted, <em>European Economic Review</em> 

@@ -17,7 +17,7 @@ author_profile: false
 Accepted, <em>European Economic Review</em> 
 <br>
 
-<span style="color:rgb(78,116,192);">**Monetary Policy Betas: Evidence from Italy**</span> [[pdf](/upload/wp/MPB.pdf)]
+<span style="color:rgb(78,116,192);">**Monetary Policy Betas: Evidence from Italy**</span> 
 <br> 
 
 

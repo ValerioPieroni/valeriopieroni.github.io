@@ -31,5 +31,9 @@ email: <a href="mailto:valerio.pieroni.econ@gmail.com">valerio.pieroni.econ@gmai
             <br>
               <br>
 
-
+<style>
+  .footer {
+    display: none;
+  }
+</style>
 

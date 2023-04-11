@@ -25,7 +25,6 @@ Forthcoming, <em>European Economic Review</em>
 <br>
 * [Published Version(https://doi.org/10.1016/j.euroecorev.2023.104428)]
 * [Online Appendix(/upload/wp/energy_hank_app.pdf)]
-<br>
 
 <h3 style="color:rgb(27,39,113);">Work in Progress</h3> 
 

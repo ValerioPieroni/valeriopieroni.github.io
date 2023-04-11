@@ -10,17 +10,18 @@ author_profile: false
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
-Social Insurance in Quantitative Macroeconomic Models<br>
-IDEA PhD program, UAB (2020, 2021), Lecturer: Alexander Ludwig<br>
+Macroeconometrics<br>
+IDEA PhD program, UAB (2023). Lecturer: Luca Gambetti<br>
   <br>
 Monetary Policy<br>
 Master program, BSE (2022), Lecturer: Davide Debortoli<br>
  <br>
+Social Insurance in Quantitative Macroeconomic Models<br>
+IDEA PhD program, UAB (2020, 2021), Lecturer: Alexander Ludwig<br>
+ <br>
 Econometrics II<br>
 IDEA PhD program, UAB (2020), Lecturer: André Gröger<br>
  <br>
-Applied IO<br>
-IDEA PhD program, UAB (2022). Lecturer: Susanna Esteban<br>
   <br>
     <br>
       <br>

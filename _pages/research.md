@@ -21,7 +21,7 @@ author_profile: false
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
 <span style="color:rgb(78,116,192);">**Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK**</span> [[pdf](/upload/wp/energy_hank.pdf)] <br> 
-Forthcoming, <em>European Economic Review</em> 
+Forthcoming, <em>European Economic Review</em> <br> 
 [[Published Version](https://doi.org/10.1016/j.euroecorev.2023.104428)] [[Online Appendix](/upload/wp/energy_hank_appendix.pdf)]
 <br> 
 

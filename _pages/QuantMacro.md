@@ -33,12 +33,7 @@ HA-OLG model stationary equilibrium           [[olg_partial_equilibrium.m](/uplo
     <br>
       <br>
         <br>
-          <br>
-            <br>
-              <br>
-                <br>
-                  <br>
-                    <br>          
+      
           
           
           

@@ -6,6 +6,14 @@ author_profile: false
 ---
 <h1 style="color:rgb(27,39,113);">Teaching</h1> 
 
+<h3 style="color:rgb(27,39,113);">Topics in Macroeconomics</h3> 
+
+<hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
+ 
+Heterogeneous Agents Models [[pdf](/upload/notes/Topics/Chapter1.pdf)] <br> 
+The New Keynesian framework [[pdf](/upload/notes/Topics/Chapter2.pdf)] <br> 
+Heterogeneous Agents New Keynesian Models  [[pdf](/upload/notes/Topics/Chapter3.pdf)] <br> 
+
 <h3 style="color:rgb(27,39,113);">Quantitative Macroeconomics</h3> 
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">

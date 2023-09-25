@@ -20,7 +20,7 @@ Endogenous grid method               [[ha_model_egm.m](/upload/codes/ha_general_
 
 HA-OLG model steady state           [[ha_olg_model.m](/upload/codes/olg_partial_equilibrium.m)]<br> 
 
-<h3 style="color:rgb(27,39,113);">Equilibrium Dynamics</h3> 
+<h3 style="color:rgb(27,39,113);">Dynamics in sequence space </h3> 
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
@@ -36,7 +36,7 @@ Steady state           [[steady_state.m](/upload/codes/ha_model/steady_state.m)]
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
-Impulse responses           [[dynamics.m](/upload/codes/ha_model/dynamics.m)]<br> 
+Dynamics           [[dynamics.m](/upload/codes/ha_model/dynamics.m)]<br> 
 
   <br>
     <br>

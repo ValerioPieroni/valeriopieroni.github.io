@@ -8,6 +8,8 @@ author_profile: false
 
 <h3 style="color:rgb(27,39,113);">Lectures</h3> 
 
+<hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
+
 Topics in Macroeconomics, PhD, University of Essex (2023). <br>
 Macroeconomic, Undergraduate, University of Essex (2023). <br>
 

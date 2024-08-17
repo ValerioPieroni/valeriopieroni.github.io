@@ -10,7 +10,7 @@ author_profile: false
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
  
-Heterogeneous agents models [[pdf](/upload/notes/Topics/Chapter1.pdf)] <br> 
+Heterogeneous agent models [[pdf](/upload/notes/Topics/Chapter1.pdf)] <br> 
 The New Keynesian framework [[pdf](/upload/notes/Topics/Chapter2.pdf)] <br> 
 HANK models  [[pdf](/upload/notes/Topics/Chapter3.pdf)] <br> 
 

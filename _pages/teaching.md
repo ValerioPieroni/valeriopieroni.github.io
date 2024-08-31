@@ -18,8 +18,8 @@ HANK models  [[pdf](/upload/notes/Topics/Chapter3.pdf)] <br>
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
-Topics in Macroeconomics, PhD, University of Essex (2023) <br>
-Macroeconomics, Undergraduate, University of Essex (2023) <br>
+Topics in Macroeconomics, PhD, University of Essex  <br>
+Macroeconomics, Undergraduate, University of Essex  <br>
 
 <h3 style="color:rgb(27,39,113);">TA Courses</h3> 
 

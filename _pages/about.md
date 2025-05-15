@@ -18,6 +18,8 @@ My research interests lie in the field of macroeconomics, with a focus on inequa
 
 <br>
 
+<br>
+
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
 Here is my <a href="https://valeriopieroni.github.io/upload/cv/cv.pdf" target="_blank">CV</a>   <br>

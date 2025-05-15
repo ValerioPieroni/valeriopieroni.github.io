@@ -14,7 +14,7 @@ redirect_from:
 
 ![image-left](https://valeriopieroni.github.io/images/profile.png){: .align-left} Welcome to my homepage. I am an Assistant Professor in the Department of Economics at the University of Essex. I received my Ph.D. in Economics from Universitat Autònoma de Barcelona. 
 
-My research interests lie in the field of macroeconomics, with a focus on economic inequality and monetary economics. 
+My research interests lie in the field of macroeconomics, with a focus on inequality. 
 
 <br>
 

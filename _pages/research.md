@@ -10,7 +10,7 @@ author_profile: false
 
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
-<span style="color:rgb(78,116,192);">**Monetary Policy and the Dyanmics of the Wealth Distribution**</span> <br>
+<span style="color:rgb(78,116,192);">**Monetary Policy and the Dynamics of the Wealth Distribution**</span> <br>
 Valerio Pieroni<br> 
 [[Working Paper](/upload/wp/mp_hank.pdf)] 
 <br> 

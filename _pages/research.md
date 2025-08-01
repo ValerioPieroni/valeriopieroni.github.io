@@ -15,7 +15,7 @@ Valerio Pieroni<br>
 [[Working Paper](/upload/wp/mp_hank.pdf)] 
 <br> 
 
-<span style="color:rgb(78,116,192);">**The Marginal Propensity to Consume in Behavioral Macroeconomics**</span> 
+<span style="color:rgb(78,116,192);">**The Marginal Propensity to Consume in Behavioral Macroeconomics**</span> <br> 
 Valerio Pieroni, Giovanni Violante<br> 
 <br> 
 

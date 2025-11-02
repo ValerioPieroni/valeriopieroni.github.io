@@ -12,6 +12,7 @@ author_profile: false
 
 <span style="color:rgb(78,116,192);">**Monetary Policy and the Dynamics of the Wealth Distribution**</span> <br>
 Valerio Pieroni<br> 
+Revise and resubmit, <em>American Economic Review<em>
 [[Working Paper](/upload/wp/mp_hank.pdf)] 
 <br> 
 

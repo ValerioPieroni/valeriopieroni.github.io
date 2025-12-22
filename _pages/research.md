@@ -18,7 +18,7 @@ Revise and resubmit, <em> American Economic Review </em> <br>
 
 <span style="color:rgb(78,116,192);">**The Marginal Propensity to Consume in Behavioral Macroeconomics**</span> <br> 
 Valerio Pieroni, Giovanni Violante<br> 
-[[Working Paper](/upload/wp/hank_ma.pdf)] 
+New draft coming soon 
 <br> 
 
 <h3 style="color:rgb(27,39,113);">Publications</h3> 

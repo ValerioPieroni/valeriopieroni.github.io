@@ -11,8 +11,7 @@ author_profile: false
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
 <span style="color:rgb(78,116,192);">**Monetary Policy and the Dynamics of the Wealth Distribution**</span> <br>
-Valerio Pieroni<br> 
-Revise and resubmit, <em> American Economic Review </em> <br>
+Valerio Pieroni, Revise and resubmit, <em> American Economic Review </em> <br>
 [[Working Paper](/upload/wp/mp_hank.pdf)] 
 <br> 
 
@@ -26,8 +25,7 @@ Valerio Pieroni, Giovanni Violante<br>
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
 <span style="color:rgb(78,116,192);">**Energy Shortages and Aggregate Demand: Output Loss and Unequal Burden from HANK**</span>  <br> 
-Valerio Pieroni<br>
-<em>European Economic Review, 2023, Volume 154, 104428 </em> <br> 
+Valerio Pieroni, <em>European Economic Review, 2023, Volume 154, 104428 </em> <br> 
 [[Working Paper](/upload/wp/energy_hank.pdf)] [[Published Version](https://doi.org/10.1016/j.euroecorev.2023.104428)] [[Online Appendix](/upload/wp/energy_hank_appendix.pdf)]
 <br> 
 

@@ -11,12 +11,10 @@ author_profile: false
 <hr style = "height:0.5px;border-width:0;color:gray;background-color:rgb(216,216,216)">
 
 <span style="color:rgb(78,116,192);">**Monetary Policy and the Dynamics of the Wealth Distribution**</span> <br>
-Valerio Pieroni<br>
 [[Working Paper](/upload/wp/mp_hank.pdf)] 
 <br> 
 
 <span style="color:rgb(78,116,192);">**How Much Does HANK Spend? Consumption Dynamics with Lumpy Durables**</span> <br>
-Valerio Pieroni<br>
 [[Working Paper](/upload/wp/hank_mpx.pdf)] 
 <br> 
 

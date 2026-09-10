@@ -14,6 +14,11 @@ author_profile: false
 [[Working Paper](/upload/wp/toptax.pdf)] 
 <br> 
 
+<span style="color:rgb(78,116,192);">**The Marginal Propensity to Consume in Behavioral Macroeconomics**</span> <br>
+with Giovanni Violante <br> 
+[[Working Paper](/upload/wp/behavioral_hank.pdf)] 
+<br> 
+
 <span style="color:rgb(78,116,192);">**How Much Does HANK Spend? Consumption Dynamics with Lumpy Durables**</span> <br>
 [[Working Paper](/upload/wp/hank_mpx.pdf)] 
 <br> 
